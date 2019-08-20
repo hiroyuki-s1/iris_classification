@@ -7,7 +7,7 @@ import IPython
 import sklearn
 from sklearn.datasets import load_iris
 
-iris_dataset = load_iris()   
+iris_dataset = load_iris()
 
 print("key of iris dataset \n{} ".format(iris_dataset.keys()))
 
